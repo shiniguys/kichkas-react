@@ -1,0 +1,8 @@
+<svg id="ico-tv" xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 27 27">
+  <g id="invisible_box" data-name="invisible box">
+    <rect id="Прямоугольник_61" data-name="Прямоугольник 61" width="27" height="27" fill="none"/>
+  </g>
+  <g id="icons_Q2" data-name="icons Q2" transform="translate(1.119 2.238)">
+    <path id="Контур_87" data-name="Контур 87" d="M25.5,4H3.119A1.119,1.119,0,0,0,2,5.119V20.786a1.119,1.119,0,0,0,1.119,1.119h7.834v2.238H7.6a1.119,1.119,0,0,0,0,2.238H21.024a1.119,1.119,0,0,0,0-2.238H17.667V21.905H25.5a1.119,1.119,0,0,0,1.119-1.119V5.119A1.119,1.119,0,0,0,25.5,4ZM24.382,6.238v8.953H4.238V6.238ZM15.429,24.143H13.191V21.905h2.238ZM4.238,19.667V17.429H24.382v2.238Z" transform="translate(-2 -4)" fill="#da251d"/>
+  </g>
+</svg>

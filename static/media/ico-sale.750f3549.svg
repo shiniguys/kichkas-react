@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="ico-sale" transform="translate(0 -0.156)">
+    <g id="invisible_box" data-name="invisible box" transform="translate(0 -0.146)">
+      <rect id="Прямоугольник_62" data-name="Прямоугольник 62" width="28" height="28" transform="translate(0 0.303)" fill="none"/>
+    </g>
+    <g id="Q3_icons" data-name="Q3 icons" transform="translate(0.822 3.508)">
+      <path id="Контур_89" data-name="Контур 89" d="M22.292,6H7.034L1.4,13.1,14.663,28.3,27.926,13.1ZM8.5,14.216l3.052,6.925L5.508,14.216Zm2.582,0h7.16l-3.58,8.216Zm9.742,0h2.993l-6.045,6.925Zm.293-5.869,2.817,3.521h-3.4L18.712,8.347Zm-5.047,0,1.819,3.521H11.435l1.819-3.521Zm-7.864,0h2.406L8.794,11.869h-3.4Z" transform="translate(-1.4 -6)" fill="#da251d"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg id="ico-internet" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="invisible_box" data-name="invisible box">
+    <rect id="Прямоугольник_60" data-name="Прямоугольник 60" width="28" height="28" fill="none"/>
+  </g>
+  <g id="Q3_icons" data-name="Q3 icons" transform="translate(2.875 2.875)">
+    <g id="Сгруппировать_9" data-name="Сгруппировать 9">
+      <path id="Контур_84" data-name="Контур 84" d="M8.45,33.3A1.15,1.15,0,1,1,7.3,34.45,1.15,1.15,0,0,1,8.45,33.3m0-2.3a3.45,3.45,0,1,0,3.45,3.45A3.45,3.45,0,0,0,8.45,31Z" transform="translate(-5 -16.051)" fill="#da251d"/>
+      <path id="Контур_85" data-name="Контур 85" d="M6.15,18a1.15,1.15,0,0,0,0,2.3A10.924,10.924,0,0,1,17.074,31.224a1.15,1.15,0,0,0,2.3,0A13.224,13.224,0,0,0,6.15,18Z" transform="translate(-5 -10.526)" fill="#da251d"/>
+      <path id="Контур_86" data-name="Контур 86" d="M6.15,5a1.15,1.15,0,0,0,0,2.3,18.456,18.456,0,0,1,18.4,18.4,1.15,1.15,0,1,0,2.3,0A20.7,20.7,0,0,0,6.15,5Z" transform="translate(-5 -5)" fill="#da251d"/>
+    </g>
+  </g>
+</svg>
